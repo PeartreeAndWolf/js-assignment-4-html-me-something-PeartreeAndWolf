@@ -33,3 +33,21 @@ font-size: 4em;
 
 }
 
+.images {
+    border-radius: 8px;  
+}
+
+#frankReporter {
+    height: 600px;
+    width: 670px;
+}
+
+#mosquito {
+    height: 430px;
+    width: 750px;
+}
+
+#shinyMetalBalls {
+    height:350px;
+    width: 350px;
+}
